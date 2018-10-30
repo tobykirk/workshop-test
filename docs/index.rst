@@ -10,6 +10,7 @@ Welcome to Test Workshop's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Tutorial
 
 
 Indices and tables
