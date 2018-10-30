@@ -12,4 +12,3 @@ def test_coulomb():
     assert coulomb(5.0) == 0.2
     assert coulomb(13.0) == coulomb(-13.0)
     assert coulomb(0.0) == 'Inf'
-    assert coulomb(0.1) == 1.0 #should fail test
